@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![alstjrdlzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjrdlzz&show_icons=true&theme=dark)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstjrdlzz)](https://solved.ac/alstjrdlzz)
